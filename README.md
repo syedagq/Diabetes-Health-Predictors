@@ -1,6 +1,7 @@
+# Diabetes-Health-Predictors
+
 Team Members: Carolina Bellani, Mugdha Khairnar, Syeda Ghazal Qadri, Tripti Sharma
 
-# Diabetes-Health-Predictors
 Diabetes is among the most prevalent chronic diseases in the United States, impacting millions of Americans each year and exerting a significant financial burden on the economy. 
 * More than 37 million US adults have diabetes, and 1 in 5 of them are not aware.
 * Diabetes is the seventh leading cause of death in the United States.
